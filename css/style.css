@@ -1,0 +1,26 @@
+
+/* top jumbo */
+
+.jumbo-1{
+    background-image: url("../img/jumbo-bg.png ");
+    background-position: center;
+    color: white;
+}
+
+.jumbo-1-top{
+    border: 3px solid white;
+    height: 100vh;
+}
+
+.jumbo-1-top img{
+    max-width: 100%;
+    width: 250px;
+}
+
+.jumbo-1-top a{
+    background-color: rgb(255, 72, 0);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
