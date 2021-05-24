@@ -154,6 +154,7 @@
 .box-mini-game-2{
     border-radius: 20px;
     width: 100%;
+    cursor: pointer;
 }
 
 .big-gray, .box-game-2 p{
@@ -198,8 +199,63 @@
 
 .playstation-store{
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .playstation-store img{
     width: 100%;
+    cursor: pointer;
 }
+
+/* playstation now */
+
+.dark-blue{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #161c3b;
+    color: white;
+}
+
+.ps-now-thumb{
+    width: 50%;
+}
+
+/* social */
+
+.social{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.social img{
+    width: 100%;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+/* footer */
+
+footer{
+    background-color: #00439c;
+    color: white;
+    padding-top: 100px;
+}
+
+.ps-footer-logo{
+    width: 150px;
+    max-width: 100%;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.globe-thumb{
+    width: 25px;
+    max-width: 100%;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+footer ul{
+    list-style: none;
+}
+
