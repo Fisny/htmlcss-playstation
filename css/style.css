@@ -24,6 +24,10 @@
 .gray-txt{
     color: rgb(90, 90, 90);
 }
+
+.bordo{
+    border: 2px solid violet;
+}
 /* top jumbo */
 
 .jumbo-1{
@@ -31,9 +35,6 @@
     background-position: top center;
     background-size: cover;
     color: white;
-}
-
-.jumbo-1-top{
 }
 
 .jumbo-col{
@@ -54,7 +55,6 @@
     color: white;
     text-decoration: none;
 }
-
 
 /*  */
 /* select game */
@@ -135,4 +135,37 @@
     padding: 10px;
     border-radius: 20px;
     text-decoration: none;
+}
+
+/* dark gray games selection */
+
+.big-gray{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    padding-top: 50px;
+}
+
+.box-game-2{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-bottom: 5px;
+}
+
+.box-mini-game-2{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.big-gray, .box-game-2 p{
+    font-size: 20px;
+}
+
+/* espora ps4 */
+
+.esplora-ps4{
+    margin-top: 50px;
+}
+
+.esplora-ps4 img{
+    width: 100%;
 }
