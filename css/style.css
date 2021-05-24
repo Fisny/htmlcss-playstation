@@ -242,7 +242,7 @@ footer{
 }
 
 .ps-footer-logo{
-    width: 150px;
+    width: 100px;
     max-width: 100%;
     margin-bottom: 50px;
     cursor: pointer;
@@ -259,3 +259,17 @@ footer ul{
     list-style: none;
 }
 
+.part-ul{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.sie-logo{
+    width: 100px;
+}
+
+.part-sie{
+    display: flex;
+    flex-direction: column;
+}
