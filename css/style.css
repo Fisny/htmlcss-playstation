@@ -169,3 +169,37 @@
 .esplora-ps4 img{
     width: 100%;
 }
+
+/* light gray */
+
+.light-gray{
+    margin-top: 50px;
+    background-color: #bebcbb;
+}
+
+.ps-plus-thumb{
+    width: 50%;
+}
+
+.plus-games{
+    width: 100%;
+}
+
+.plus-button{
+    background-color: #fff;
+    color: #0072ce;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* playstation store */
+
+.playstation-store{
+    margin-top: 50px;
+}
+
+.playstation-store img{
+    width: 100%;
+}
