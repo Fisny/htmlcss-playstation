@@ -28,6 +28,37 @@
 .bordo{
     border: 2px solid violet;
 }
+
+.flex{
+    display: flex;
+}
+
+/* nav */
+
+.sony{
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+
+.sony h4{
+    margin-right: 15px;
+}
+
+#navbarDropdown{
+    color: black;
+    font-size: 15px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    position: sticky;
+    top: 0;
+}
+
+.play-logo{
+    margin-right: 15px;
+}
+
 /* top jumbo */
 
 .jumbo-1{
@@ -257,12 +288,6 @@ footer{
 
 footer ul{
     list-style: none;
-}
-
-.part-ul{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
 }
 
 .sie-logo{
